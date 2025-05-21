@@ -76,9 +76,7 @@
 ## 📤 CV Submission
 
 ### 📎 Evidence
-> Screenshot of the email or submission platform used.  
-> Example:  
-> ![CV Submission Screenshot](images/cv_submission.png)
+https://github.com/AndaMat003/Project-Presentation3/blob/main/Anda_Matomela22.pdf
 
 ### ✨ Reflection (STAR)
 
