@@ -6,18 +6,11 @@
 **Assessment Period:** 19 – 23 May 2025  
 
 
-## 📘 Table of Contents
-1. [Career Counselling](#career-counselling)
-2. [Skills and Interests](#skills-and-interests)
-3. [Personality Assessment](#personality-assessment)
-4. [Create a CV](#create-a-cv)
-5. [CV Submission](#cv-submission)
-
-
 ## 📍 Career Counselling
 
 ### 📎 Evidence
-<img width="1440" alt="Screenshot 2025-05-21 at 23 05 10" src="https://github.com/user-attachments/assets/7b35a22d-5f13-4eaf-a9bd-b174f8244999" />
+
+<img width="1440" alt="Screenshot 2025-05-21 at 23 28 57" src="https://github.com/user-attachments/assets/9bfe2cd1-ce71-4ab8-8efb-4aceba8f5e06" />
 
 
 ### ✨ Reflection (STAR)
@@ -47,7 +40,8 @@
 ## 🧠 Personality Assessment
 
 ### 📎 Evidence
-<img width="1440" alt="Screenshot 2025-05-21 at 23 14 33" src="https://github.com/user-attachments/assets/4ff85f4d-9919-4e6b-ae4e-caf49b98df14" />
+<img width="1440" alt="Screenshot 2025-05-21 at 23 25 00" src="https://github.com/user-attachments/assets/0aeea130-dc08-4954-bbce-b391a29981de" />
+
 
 
 ### ✨ Reflection (STAR)
@@ -62,7 +56,8 @@
 ## 📝 Create a CV
 
 ### 📎 Evidence
-<img width="1440" alt="Screenshot 2025-05-21 at 23 16 41" src="https://github.com/user-attachments/assets/685f8682-a767-434b-a394-640b4f7cde38" />
+
+<img width="1440" alt="Screenshot 2025-05-21 at 23 27 34" src="https://github.com/user-attachments/assets/a2bc388f-8030-482f-a73a-eeb444b45eaf" />
 
 ### ✨ Reflection (STAR)
 
