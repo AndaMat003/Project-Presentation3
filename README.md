@@ -25,8 +25,7 @@
 ## 🔧 Skills and Interests
 
 ### 📎 Evidence
-<img width="1440" alt="Screenshot 2025-05-21 at 23 05 10" src="https://github.com/user-attachments/assets/10e408b5-826b-47e4-b124-11f51404042d" />
-
+<img width="1440" alt="Screenshot 2025-05-21 at 23 30 32" src="https://github.com/user-attachments/assets/49da224c-4509-416c-9c46-762ed66626b0" />
 
 ### ✨ Reflection (STAR)
 
