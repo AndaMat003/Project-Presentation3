@@ -74,11 +74,10 @@ https://github.com/AndaMat003/Project-Presentation3/blob/main/Anda_Matomela22.pd
 
 ### ✨ Reflection (STAR)
 
-**S** – I submitted my CV as part of a call center job application to Discovery during April 2025.  
-**T** – I had to follow the job ad instructions and ensure my CV was submitted professionally.  
-**A** – I used my email with a formal cover letter and followed up after submission.  
-**R** – I received an interview invitation, which confirmed that my CV and application were well-prepared.
-
+**S** – I submitted my CV as part of a Work Integrated Learning (WIL) application to **Parliament of the Republic of South Africa** and the **City of Cape Town**.  
+**T** – I needed to submit a tailored, professional CV that aligned with their IT internship requirements.  
+**A** – I customized my CV and cover letter for each opportunity, focusing on my ICT Application Development specialization.  
+**R** – I received a confirmation of receipt and was advised my application would be reviewed in their next intake cycle.
 
 
 ## ✅ Conclusion
